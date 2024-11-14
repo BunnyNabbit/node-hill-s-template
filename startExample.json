@@ -1,0 +1,8 @@
+{
+	"port": 42480,
+	"local": true,
+	"mapDirectory": "./maps/",
+	"map": "example.brk",
+	"scripts": "./user_scripts",
+	"modules": []
+}
