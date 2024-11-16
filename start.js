@@ -1,7 +1,5 @@
 const nh = require('node-hill-s')
 
-const { Brick, Vector3, PacketBuilder } = nh
-
 let start
 try {
 	start = require("./start.json")
