@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       node-hill-s:
-        specifier: ^13.3.3
+        specifier: ^13.4.0
         version: 13.4.0
 
 packages:

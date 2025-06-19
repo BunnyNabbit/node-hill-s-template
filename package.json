@@ -1,6 +1,6 @@
 {
-  "main": "start.js",
+	"main": "start.js",
 	"dependencies": {
-		"node-hill-s": "^13.3.3"
+		"node-hill-s": "^13.4.0"
 	}
 }
